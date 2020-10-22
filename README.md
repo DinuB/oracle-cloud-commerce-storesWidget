@@ -1,2 +1,2 @@
 # oracle-cloud-commerce-storesWidget
-HTML and JS Code, With Locations Request, Cities and States Filters
+Stores Display - HTML and JS Code, With Locations Request, Cities and States Filters
